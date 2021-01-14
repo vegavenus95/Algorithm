@@ -1,2 +1,2 @@
-# algo
+# Algo
 Algo_Java
